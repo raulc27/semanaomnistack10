@@ -22,7 +22,7 @@ app.use(routes);
 
 
 
-mongoose.connect('mongodb://raul:rauL_1979@cluster0-shard-00-00-ijtwj.mongodb.net:27017,cluster0-shard-00-01-ijtwj.mongodb.net:27017,cluster0-shard-00-02-ijtwj.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority',{
+mongoose.connect('mongodb://login:SENHA@cluster0-shard-00-00-ijtwj.mongodb.net:27017,cluster0-shard-00-01-ijtwj.mongodb.net:27017,cluster0-shard-00-02-ijtwj.mongodb.net:27017/test?ssl=true&replicaSet=Cluster0-shard-0&authSource=admin&retryWrites=true&w=majority',{
     useNewUrlParser:true,
     useUnifiedTopology:true,
 });
