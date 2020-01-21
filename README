@@ -10,13 +10,13 @@ Criando modificações, elas "sofrerão" update aqui.
 
 Após ter baixado ou clonado o projeto, entre em cada diretório e:
 
-<code>
-<>$ npm install
-</code>
 
-Para rodar o backend: <code>$ yarn dev</code>
-Para rodar o mobile: <code>$ expo start</start>
-Para rodar o web: <code>$ yarn start</code>
+<>$ npm install
+
+
+Para rodar o backend: $ yarn dev
+Para rodar o mobile:  $ expo start
+Para rodar o web:     $ yarn start
 
 
 Até!
